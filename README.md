@@ -33,3 +33,14 @@ Charts were created using ggplot2 to show sales distribution and profitability a
 
 ## Conclusion
 The analysis highlights important sales patterns and profitable product categories, which can help businesses make better strategic decisions.
+
+## Visualizations
+
+### Sales by Region
+![Sales by Region](sales_by_region.png)
+
+### Profit by Category
+![Profit by Category](profit_by_category.png)
+
+### Top 10 Products by Sales
+![Top 10 Products by Sales](top_10_products_by_sales.png)
